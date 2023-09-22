@@ -1,0 +1,11 @@
+map:xəritə
+back:arxa
+pen:qələm
+mistake:səf
+hello:salam
+wrong:yalniş
+success:ugur
+successfully:ugurlu
+car:masin
+house:ev
+market:magaza
